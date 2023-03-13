@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="edtName">enter name</string>
+    <string name="edtEmail">enter email</string>
+    <string name="edtPassword">enter password</string>
+    <string name="edtRepassword">re-enter password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
 </resources>
